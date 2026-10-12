@@ -1,5 +1,5 @@
 # Shutter Speed Tester
-Well, hello there. So you have a camera that youd like to test? Let's do that, shall we? Here is the
+Well, hello there. So you have a camera that youd like to test and have an arduino and some bits? Let's do that, shall we? Here is the
 # Plan
 1. Method
 2. Build
