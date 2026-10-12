@@ -11,10 +11,13 @@ If you follow these steps, you will be able to ensure your exposure times are ac
 
 
 # Method
-What is shutter speed or exposure time?
+### What is shutter speed or exposure time?
 
 Exposure time is the amount of time your film is exposed to the light you are recording.
 
-How is this achieved?
+ ### How is this achieved?
 
 It is achieved primarily by using 2 curtain shutters. By using 2 curtains you can adjust the amount of time your film is exposed to light. 
+
+### How do we measure this?
+Since it is light
