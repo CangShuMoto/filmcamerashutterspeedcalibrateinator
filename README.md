@@ -20,4 +20,8 @@ Exposure time is the amount of time your film is exposed to the light you are re
 It is achieved primarily by using 2 curtain shutters. By using 2 curtains you can adjust the amount of time your film is exposed to light. 
 
 ### How do we measure this?
-Since it is light
+There are a couple ways we can measure this. One way is using a distance or Time of Flight(ToF) sensor to measure the time that the sensor is unobscured. The other way is using something photosensitive and a flashlight.
+
+I have initially opted for the photosensitive route. If I try the Time of Flight sensor, I will mention that as well.
+
+We will use either of these methods to determine the duration of time that light will be allowed through the shutter. This will give us our Exposure Time.
