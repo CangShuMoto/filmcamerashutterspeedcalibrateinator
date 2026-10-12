@@ -17,7 +17,7 @@ Exposure time is the amount of time your film is exposed to the light you are re
 
  ### How is this achieved?
 
-It is achieved primarily by using 2 curtain shutters. By using 2 curtains you can adjust the amount of time your film is exposed to light. 
+It is achieved primarily by using 2 curtain shutters. By using 2 curtains you can adjust the amount of time your film is exposed to light. At faster speeds, this creates a physically smaller exposure area which creates a smaller exposure time without altering the velocity of the curtains.
 
 ### How do we measure this?
 There are a couple ways we can measure this. One way is using a distance or Time of Flight(ToF) sensor to measure the time that the sensor is unobscured. The other way is using something photosensitive and a flashlight.
