@@ -30,7 +30,7 @@ We will use either of these methods to determine the duration of time that light
 So now that we know what we are testing for, it is time to build! We will need
 
 ### Build List
-- 1x arduino
+- 1x Arduino
 - 1x Light Dependent Resistor (LDR)
 - 1x 10k Ohm Resistor
 - 1x Breadboard
