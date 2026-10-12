@@ -36,4 +36,4 @@ So now that we know what we are testing for, it is time to build! We will need
 - 1x Breadboard
 - Several Jumper Wires
 - Flashlight
-- (OPTIONAL)Spreadsheet Software
+- Spreadsheet Software
