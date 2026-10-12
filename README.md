@@ -13,7 +13,7 @@ If you follow these steps, you will be able to ensure your exposure times are ac
 # Method
 ### What is shutter speed or exposure time?
 
-Exposure time is the amount of time your film is exposed to the light you are recording.
+Exposure time is the amount of time your film is exposed to the light you are recording. Typically represented as $1/500$ or some fraction of a second.
 
  ### How is this achieved?
 
