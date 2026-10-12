@@ -25,3 +25,15 @@ There are a couple ways we can measure this. One way is using a distance or Time
 I have initially opted for the photosensitive route. If I try the Time of Flight sensor, I will mention that as well.
 
 We will use either of these methods to determine the duration of time that light will be allowed through the shutter. This will give us our Exposure Time.
+
+# Build
+So now that we know what we are testing for, it is time to build! We will need
+
+### Build List
+- 1x arduino
+- 1x Light Dependent Resistor (LDR)
+- 1x 10k Ohm Resistor
+- 1x Breadboard
+- Several Jumper Wires
+- Flashlight
+- Spreadsheet Software
